@@ -1,0 +1,10 @@
+.hover{
+    background-color: skyblue;
+}
+
+.board{
+    height: 800px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+}
